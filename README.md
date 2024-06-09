@@ -41,9 +41,6 @@
 <img src="https://github.com/Rajatg180/fitZone/assets/100464536/8a41db6d-8cc5-4ec0-b55f-eda9d4933326"  width="800" height="500">
 
 
-<img src="https://github.com/Rajatg180/fitZone/assets/100464536/a61d6b22-d33a-4170-b11c-c54479b7694f"  width="800" height="500">
-
-
 <img src="https://github.com/Rajatg180/fitZone/assets/100464536/f96353a9-e421-4d4f-8e22-78e1217a10dd"  width="800" height="500">
 
 
